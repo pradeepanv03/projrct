@@ -1,0 +1,14 @@
+.carousel-inner {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .carousel-item {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .d-block {
+    width: 33%;
+  }
+  

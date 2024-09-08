@@ -1,0 +1,26 @@
+/* ProductPage.css */
+.product-page {
+    display: flex;
+    width: 100%;
+  }
+  
+  .images-section {
+    height: 50%;
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .images-section img {
+    width: calc(50% - 10px); /* 2 images per row with gap */
+    margin-bottom: 10px;
+    height: 500px;
+  }
+  
+  .aside-section {
+    width: 40%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  

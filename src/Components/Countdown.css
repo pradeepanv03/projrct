@@ -1,0 +1,21 @@
+#countdown {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    /* display: inline; */
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+    height: 80px;
+    width: 100%;
+    background: linear-gradient(to right, #f9faff, #eaeff7);
+    margin-top: 70px;
+}  
+  #countdown span {
+font-size: 20px;  }
+  
+  /* .countdown span:not(:first-child) {
+    color: red;
+  }
+   */
